@@ -7,7 +7,7 @@ This is a RESTful API (Thus no front-end or UI included) to enable to following 
 ## Build Steps
 1. Clone the repository to local
 2. On commandline, `cd` into the folder
-3. Run `docker build -t <image name>`
+3. Run `docker build -t <image name> .`
 4. Save image `docker save -o <path to image tar file> <image name>`
 
 ## Load Built Image
