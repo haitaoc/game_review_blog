@@ -4,6 +4,11 @@ This is a RESTful API (Thus no front-end or UI included) to enable to following 
 >I want a way to create blog posts for my video game reviews.
 >So that I can share my reviews in a way that my readers can respond to
 
+## Run Local Test Cases
+1. `cd` into the project folder
+2. Run `npm install`
+3. Run `npm test`
+
 ## Build Steps
 1. Clone the repository to local
 2. On commandline, `cd` into the folder
